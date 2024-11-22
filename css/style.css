@@ -199,13 +199,13 @@ main {
   width: 225px;
   height: 420px;
   border-radius: 15px;
-  background: url(img/main/me.png);
+  background: url(../img/main/me.png);
 }
 
 .foto2 {
   width: 225px;
   height: 200px;
-  background: url(img/main/school.png);
+  background: url(../img/main/school.png);
   border-radius: 15px;
   margin-top: 2%;
 }
@@ -213,7 +213,7 @@ main {
 .foto3 {
   width: 225px;
   height: 200px;
-  background: url(img/main/taro.png);
+  background: url(../img/main/taro.png);
   border-radius: 15px;
   margin-top: 2%;
 }
